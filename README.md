@@ -8,8 +8,7 @@ AI-first full-stack developer and founding engineer at **BKTY LTD**, building an
 
 I build complete production products independently—from architecture and backend development to mobile apps, infrastructure, deployment, and ongoing maintenance.
 
-AI is a core part of how I work. I use **Claude Code**, the **Claude API**, **GitHub Copilot**, and **Cursor** every day—not only for code generation, but also for architecture design, code reviews, QA, automation, documentation, content pipelines, and AI-powered product features.
-
+AI is a core part of my development workflow. I use Claude Code, Claude API, GitHub Copilot, and Cursor to accelerate software development, automate engineering tasks, improve code quality, and build AI-powered product features.
 - **Backend:** Django REST Framework, PostgreSQL, Celery, Redis
 - **Mobile:** React Native (Expo), Swift/SwiftUI
 - **Frontend:** Next.js, React
